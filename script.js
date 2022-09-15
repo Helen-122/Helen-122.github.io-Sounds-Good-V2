@@ -398,7 +398,7 @@ function displayCart() {
     let totalProducts = document.querySelector('.total-products');
     totalProducts.innerHTML =   
     `<div class="basketTotalContainer">
-    <h4>NON MAIS T'AS RIEN DANS TON PANIER?! TU RIGOLLES OU QUOI??</h4>
+    <h4>NON MAIS T'AS RIEN DANS TON PANIER?! TU RIGOLES OU QUOI??</h4>
     </div>`
     ;
     if (cartItems && productContainer) {
