@@ -65,7 +65,6 @@ span {
 /*SEARCH BAR*/
 #beauty {
     display: flex;
-    flex-direction: row;
     justify-content: center;
 }
 
