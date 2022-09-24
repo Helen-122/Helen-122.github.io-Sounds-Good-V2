@@ -82,6 +82,7 @@ span {
 
 input {
     height: 20px;
+    width: 300px;
     border-radius: 1em;
     border: 1px solid transparent;
     background-color: #e5dada;
@@ -229,6 +230,10 @@ h3 {
 
 .space {
     height: 20px;
+}
+
+.space2 {
+    height: 80px;
 }
 
 /*WHO*/
